@@ -6,4 +6,6 @@ import java.io.Serializable;
 
 @Data
 public class ApiRequest implements Serializable {
+
+    public void test(){}
 }
